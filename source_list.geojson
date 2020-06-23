@@ -1,0 +1,210 @@
+[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "139.746306",
+        "35.675895"
+      ]
+    },
+    "properties": {
+      "name": "国立国会図書館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "139.709558",
+        "35.653311"
+      ]
+    },
+    "properties": {
+      "name": "大蔵出版"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "139.763725",
+        "35.711585"
+      ]
+    },
+    "properties": {
+      "name": "SAT大蔵経テキストデータベース研究会"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "140.219068",
+        "35.721071"
+      ]
+    },
+    "properties": {
+      "name": "国立歴史民俗博物館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "135.781961",
+        "35.026964"
+      ]
+    },
+    "properties": {
+      "name": "京都大学附属図書館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "135.764241",
+        "35.048354"
+      ]
+    },
+    "properties": {
+      "name": "京都府立京都学・歴彩館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "140.444308",
+        "36.401571"
+      ]
+    },
+    "properties": {
+      "name": "茨城大学図書館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "139.763725",
+        "35.711585"
+      ]
+    },
+    "properties": {
+      "name": "東京大学総合図書館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "139.404410",
+        "35.707447"
+      ]
+    },
+    "properties": {
+      "name": "国文学研究資料館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "135.509812",
+        "34.770436"
+      ]
+    },
+    "properties": {
+      "name": "関西大学アジア・オープン・リサーチセンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "130.302304",
+        "33.247315"
+      ]
+    },
+    "properties": {
+      "name": "佐賀県立図書館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "130.288799",
+        "33.240165"
+      ]
+    },
+    "properties": {
+      "name": "佐賀大学附属図書館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "140.103344",
+        "35.627767"
+      ]
+    },
+    "properties": {
+      "name": "千葉大学附属図書館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "130.218033",
+        "33.592831"
+      ]
+    },
+    "properties": {
+      "name": "九州大学附属図書館"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "139.741212",
+        "35.649890"
+      ]
+    },
+    "properties": {
+      "name": "慶應義塾大学メディアセンター"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "139.757346",
+        "35.693171"
+      ]
+    },
+    "properties": {
+      "name": "華北交通アーカイブ作成委員会"
+    }
+  }
+]
