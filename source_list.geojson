@@ -11,7 +11,17 @@
         ]
       },
       "properties": {
-        "name": "国立国会図書館"
+        "name": "国立国会図書館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -24,7 +34,17 @@
         ]
       },
       "properties": {
-        "name": "大蔵出版"
+        "name": "大蔵出版",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -37,7 +57,17 @@
         ]
       },
       "properties": {
-        "name": "SAT大蔵経テキストデータベース研究会"
+        "name": "SAT大蔵経テキストデータベース研究会",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -50,7 +80,17 @@
         ]
       },
       "properties": {
-        "name": "国立歴史民俗博物館"
+        "name": "国立歴史民俗博物館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -63,7 +103,17 @@
         ]
       },
       "properties": {
-        "name": "京都大学附属図書館"
+        "name": "京都大学附属図書館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -76,7 +126,17 @@
         ]
       },
       "properties": {
-        "name": "京都府立京都学・歴彩館"
+        "name": "京都府立京都学・歴彩館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -89,7 +149,17 @@
         ]
       },
       "properties": {
-        "name": "茨城大学図書館"
+        "name": "茨城大学図書館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -102,7 +172,17 @@
         ]
       },
       "properties": {
-        "name": "東京大学総合図書館"
+        "name": "東京大学総合図書館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -115,7 +195,17 @@
         ]
       },
       "properties": {
-        "name": "国文学研究資料館"
+        "name": "国文学研究資料館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -128,7 +218,17 @@
         ]
       },
       "properties": {
-        "name": "関西大学アジア・オープン・リサーチセンター"
+        "name": "関西大学アジア・オープン・リサーチセンター",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -141,7 +241,17 @@
         ]
       },
       "properties": {
-        "name": "佐賀県立図書館"
+        "name": "佐賀県立図書館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -154,7 +264,17 @@
         ]
       },
       "properties": {
-        "name": "佐賀大学附属図書館"
+        "name": "佐賀大学附属図書館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -167,7 +287,17 @@
         ]
       },
       "properties": {
-        "name": "千葉大学附属図書館"
+        "name": "千葉大学附属図書館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -180,7 +310,17 @@
         ]
       },
       "properties": {
-        "name": "九州大学附属図書館"
+        "name": "九州大学附属図書館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -193,7 +333,17 @@
         ]
       },
       "properties": {
-        "name": "慶應義塾大学メディアセンター"
+        "name": "慶應義塾大学メディアセンター",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     },
     {
@@ -206,7 +356,17 @@
         ]
       },
       "properties": {
-        "name": "華北交通アーカイブ作成委員会"
+        "name": "華北交通アーカイブ作成委員会",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
       }
     }
   ]
