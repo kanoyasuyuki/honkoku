@@ -368,6 +368,29 @@
           10
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "136.242722",
+          "36.037189"
+        ]
+      },
+      "properties": {
+        "name": "福井県立文書館",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/001.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      }
     }
   ]
 }
